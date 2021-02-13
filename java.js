@@ -51,3 +51,11 @@ function AlteraRele4(){
         document.getElementById("botao_4").innerHTML="<a href='/?4_ligar' class='botao_4'>Liga</a>";
     }
 }
+
+function CarregaPagina(){
+	var Statusestado = document.getElementById("estado").innerHTML;
+	var Statusestado_2 = document.getElementById("estado_2").innerHTML;
+	var Statusestado_3 = document.getElementById("estado_3").innerHTML;
+	var Statusestado_4 = document.getElementById("estado_4").innerHTML;
+
+}
